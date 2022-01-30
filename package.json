@@ -1,0 +1,23 @@
+{
+  "name": "rickgame",
+  "version": "1.0.0",
+  "description": "Click The Ricks",
+  "main": "main.js",
+  "scripts": {
+    "start": "budo main.js:build.js --live",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Slurto/RickGame.git"
+  },
+  "author": "LagrangeGames",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Slurto/RickGame/issues"
+  },
+  "homepage": "https://github.com/Slurto/RickGame#readme",
+  "devDependencies": {
+    "budo": "^11.6.4"
+  }
+}

@@ -1,0 +1,2 @@
+# RickGame
+Click The Ricks
